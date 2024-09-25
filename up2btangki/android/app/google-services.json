@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "659409368282",
+    "project_id": "up2btangki",
+    "firebase_url": "https://up2btangki-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "up2btangki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659409368282:android:403abf7f5696ade8f5e1e3",
+        "android_client_info": {
+          "package_name": "com.example.up2btangki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb-W1QoGDn-RxgFv18LmfuhMeWimGnxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
